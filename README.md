@@ -41,6 +41,6 @@
 
 
 <h3>Demostration Video</h3>
-![demo_4 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/90703242-0e3f-41f4-ac43-c8a29962075f)
+<img src="https://github.com/user-attachments/assets/90703242-0e3f-41f4-ac43-c8a29962075f"></img>
 
 
